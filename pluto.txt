@@ -1,2 +1,2 @@
-Somthing about Pluto.
+Something about Pluto.
 Fixed this line.
